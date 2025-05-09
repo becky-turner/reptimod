@@ -1,6 +1,15 @@
-<img src="man/figures/reptimod_logo.png" alt="reptimod logo" align="right" width="170"/>
+<div style="display:flex; align-items:flex-start; margin-bottom:1em;">
 
-<h1 style="border:none; padding-bottom:0;">reptimod</h1>
+  <div style="flex:1;">
+    <h1 style="margin:0; border:none;">reptimod</h1>
+    <p style="margin:0.5em 0 0 0; color:#444;">
+      Tools to build, fit, and evaluate integrated single- and multi-season  
+      occupancy models for UK reptiles.
+    </p>
+  </div>
 
-Tools to build, fit, and evaluate integrated single- and multi-season  
-occupancy models for UK reptiles.
+  <div style="flex:0;">
+    <img src="man/figures/reptimod_logo.png" width="120" alt="reptimod logo"/>
+  </div>
+
+</div>
