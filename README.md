@@ -1,5 +1,5 @@
 <!-- logo -->
-<img src="man/figures/logo.png" alt="reptimod logo"
+<img src="man/figures/reptimod_logo.png" alt="reptimod logo"
      style="float: right; width: 120px; margin-left: 1em;" />
      
 # reptimod
