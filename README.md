@@ -1,17 +1,20 @@
-<table>
-<tr>
-<td width="80%" align="left">
+<!-- BEGIN flex header -->
+<div style="display: flex; align-items: center;">
 
-# reptimod
+  <!-- Left side: title & description -->
+  <div style="flex: 1 1 auto; padding-right: 1em;">
+    <h1 style="margin-bottom: 0.3em;">reptimod</h1>
+    <p style="margin-top: 0; color: #444;">
+      Tools to build, fit, and evaluate integrated single- and multi-season  
+      occupancy models for UK reptiles.
+    </p>
+  </div>
 
-Tools to build, fit, and evaluate integrated single- and multi-season  
-occupancy models for UK reptiles.
+  <!-- Right side: logo -->
+  <div style="flex: 0 0 auto;">
+    <img src="man/figures/reptimod_logo.png" alt="reptimod logo"
+         width="170" />
+  </div>
 
-</td>
-<td width="20%" align="right">
-
-<img src="man/figures/reptimod_logo.png" alt="reptimod logo" width="120"/>
-
-</td>
-</tr>
-</table>
+</div>
+<!-- END flex header -->
