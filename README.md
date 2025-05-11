@@ -1,4 +1,4 @@
-<img src="man/figures/reptimod_logo.png" align="right" width="180" alt="reptimod logo"/>
+<img src="man/figures/reptimod_logo2.png" align="right" width="180" alt="reptimod logo"/>
 
 
 
